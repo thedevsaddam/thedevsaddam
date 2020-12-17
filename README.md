@@ -1,6 +1,3 @@
-## About
-Hi there, I’m Saddam Hossain, a Software Engineer from Bangladesh. My journey began with QBASIC and C programming language at college. Then started to learn different languages like Visual Basic, Java, PHP, Golang, Javascript, and different software related technologies like database, cache, messaging, VPS, docker, Kubernetes, micro-services, distributed system, etc. As I love Golang more than any other programming language, for now, most of the time I spent writing different services, packages in Go. I’m familiar with different PHP/JS/Golang libraries & frameworks like Laravel, Lumen, Codeigniter, jQuery, React, Vue.js, Gorilla mux, chi, echo, beego, etc. Spend almost 14 Hrs a day with different tech stack, contributing/reading open source projects, reading articles somewhere on the web. Always trying to learn “how to design better software”.
-
 ### Quick highlighs
 - Extensive experience in Golang and PHP
 - 6+ years of professional experience in the software industry
@@ -12,6 +9,14 @@ Hi there, I’m Saddam Hossain, a Software Engineer from Bangladesh. My journey 
 
 ### Technology Stacks
 - Language: Golang, PHP
-- Messaging: RabbitMQ
+- Messaging: RabbitMQ, NATS
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker, Consul, Kubernetes, CI/CD
+
+<a href="https://github.com/thedevsaddam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevsaddam&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+
+<a href="https://github.com/thedevsaddam/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevsaddam&langs_count=8&hide=javascript,html,css,erlang" />
+</a>
