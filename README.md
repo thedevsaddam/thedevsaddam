@@ -6,6 +6,7 @@
 - Experience in developing applications utilizing TDD (Test Driven Development), Unit and Integration testing 
 - Worked in Agile Scrum process in software development
 - Opensource enthusiast and love write elegant code
+
 ### Technology Stacks
 - Language: Golang, PHP
 - Messaging: RabbitMQ, NATS
@@ -18,3 +19,4 @@
 <a href="https://github.com/thedevsaddam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevsaddam&langs_count=8&hide=javascript,html,css,erlang" />
 </a>
+<a herf="https://visitor-badge.glitch.me/badge?page_id=https://github.com/thedevsaddam"></a>
